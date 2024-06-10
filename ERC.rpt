@@ -1,0 +1,159 @@
+ERC レポート (2024/06/10 16:06:18, エンコーディング UTF8)
+
+***** シート /
+[power_pin_not_driven]: 電源入力ピンが電源出力ピンによって駆動されていない
+    ; Severity: error
+    @(201.9300 mm, 153.6700 mm): Symbol #PWR02 非表示ピン 1 [GND, 電源入力, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 114.3000 mm): Symbol J3 ピン 34 [Pin_34, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 106.6800 mm): Symbol J3 ピン 31 [Pin_31, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 73.6600 mm): Symbol J2 ピン 18 [Pin_18, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 63.5000 mm): Symbol J2 ピン 14 [Pin_14, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 50.8000 mm): Symbol J2 ピン 9 [Pin_9, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 55.8800 mm): Symbol J2 ピン 11 [Pin_11, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 48.2600 mm): Symbol J2 ピン 8 [Pin_8, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 45.7200 mm): Symbol J3 ピン 7 [Pin_7, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 83.8200 mm): Symbol J3 ピン 22 [Pin_22, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 91.4400 mm): Symbol J3 ピン 25 [Pin_25, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 81.2800 mm): Symbol J3 ピン 21 [Pin_21, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 99.0600 mm): Symbol J3 ピン 28 [Pin_28, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 40.6400 mm): Symbol J3 ピン 5 [Pin_5, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 38.1000 mm): Symbol J3 ピン 4 [Pin_4, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 33.0200 mm): Symbol J3 ピン 2 [Pin_2, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 30.4800 mm): Symbol J3 ピン 1 [Pin_1, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 35.5600 mm): Symbol J3 ピン 3 [Pin_3, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 50.8000 mm): Symbol J3 ピン 9 [Pin_9, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 48.2600 mm): Symbol J3 ピン 8 [Pin_8, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 68.5800 mm): Symbol J3 ピン 16 [Pin_16, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 58.4200 mm): Symbol J3 ピン 12 [Pin_12, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 66.0400 mm): Symbol J3 ピン 15 [Pin_15, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(241.3000 mm, 43.1800 mm): Symbol J3 ピン 6 [Pin_6, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 30.4800 mm): Symbol J2 ピン 1 [Pin_1, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 38.1000 mm): Symbol J2 ピン 4 [Pin_4, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 43.1800 mm): Symbol J2 ピン 6 [Pin_6, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 45.7200 mm): Symbol J2 ピン 7 [Pin_7, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 35.5600 mm): Symbol J2 ピン 3 [Pin_3, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 40.6400 mm): Symbol J2 ピン 5 [Pin_5, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 33.0200 mm): Symbol J2 ピン 2 [Pin_2, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 76.2000 mm): Symbol J2 ピン 19 [Pin_19, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 88.9000 mm): Symbol J2 ピン 24 [Pin_24, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 96.5200 mm): Symbol J2 ピン 27 [Pin_27, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 104.1400 mm): Symbol J2 ピン 30 [Pin_30, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 78.7400 mm): Symbol J2 ピン 20 [Pin_20, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(215.9000 mm, 111.7600 mm): Symbol J2 ピン 33 [Pin_33, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(91.4400 mm, 59.6900 mm): Symbol J1 ピン A2 [A2, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(91.4400 mm, 62.2300 mm): Symbol J1 ピン A3 [A3, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(116.8400 mm, 67.3100 mm): Symbol J1 ピン B6 [B6, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(116.8400 mm, 62.2300 mm): Symbol J1 ピン B4 [B4, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(91.4400 mm, 74.9300 mm): Symbol J1 ピン A8 [A8, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(91.4400 mm, 77.4700 mm): Symbol J1 ピン A9 [A9, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(91.4400 mm, 64.7700 mm): Symbol J1 ピン A4 [A4, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(91.4400 mm, 67.3100 mm): Symbol J1 ピン A5 [A5, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(91.4400 mm, 69.8500 mm): Symbol J1 ピン A6 [A6, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(91.4400 mm, 72.3900 mm): Symbol J1 ピン A7 [A7, パッシブ, ライン]
+[power_pin_not_driven]: 電源入力ピンが電源出力ピンによって駆動されていない
+    ; Severity: error
+    @(85.0900 mm, 57.1500 mm): Symbol #PWR01 非表示ピン 1 [+5V, 電源入力, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(116.8400 mm, 143.5100 mm): Symbol J1 ピン MH2 [MH2, パッシブ, ライン]
+[pin_not_connected]: ピンが接続されていない
+    ; Severity: error
+    @(116.8400 mm, 140.9700 mm): Symbol J1 ピン MH1 [MH1, パッシブ, ライン]
+[multiple_net_names]: AO GND と D GND は、ともに同じ配線に接続されています; AO GND をネットリスト用ラベルとして選択しました
+    ; Severity: warning
+    @(88.9000 mm, 100.3300 mm): グローバル ラベル 'AO GND'
+    @(88.9000 mm, 143.5100 mm): グローバル ラベル 'D GND'
+
+ ** ERC メッセージ: 51  エラー 50  警告 1

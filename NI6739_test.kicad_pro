@@ -275,7 +275,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "D GND"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "AO GND"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
